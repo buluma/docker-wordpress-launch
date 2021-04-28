@@ -1,8 +1,8 @@
-[![Travis](https://img.shields.io/travis/beevelop/docker-wordpress.svg?style=flat-square)](https://travis-ci.org/beevelop/docker-wordpress)
+[![Travis](https://img.shields.io/travis/buluma/docker-wordpress.svg?style=flat-square)](https://travis-ci.org/buluma/docker-wordpress)
 [![Pulls](https://img.shields.io/docker/pulls/buluma/wordpress.svg?style=flat-square)](https://links.beevelop.com/d-wordpress)
-[![Layers](hhttps://img.shields.io/docker/image/layers/beevelop/wordpress/latest.svg?style=flat-square)](https://links.beevelop.com/d-wordpress)
-[![Size](https://img.shields.io/docker/image/size/beevelop/wordpress/latest.svg?style=flat-square)](https://links.beevelop.com/d-wordpress)
-[![Release](https://img.shields.io/github/release/beevelop/docker-wordpress.svg?style=flat-square)](https://github.com/beevelop/docker-wordpress/releases)
+[![Layers](hhttps://img.shields.io/docker/image/layers/buluma/wordpress/latest.svg?style=flat-square)](https://links.beevelop.com/d-wordpress)
+[![Size](https://img.shields.io/docker/image/size/buluma/wordpress/latest.svg?style=flat-square)](https://links.beevelop.com/d-wordpress)
+[![Release](https://img.shields.io/github/release/buluma/docker-wordpress-launch.svg?style=flat-square)](https://github.com/beevelop/docker-wordpress-launch/releases)
 ![Badges](https://img.shields.io/badge/badges-7-brightgreen.svg?style=flat-square)
 
 # WordPress for Docker on Steroids
