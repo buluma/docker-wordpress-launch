@@ -1,8 +1,8 @@
-[![Pulls](https://img.shields.io/docker/pulls/buluma/wordpress-launch?style=for-the-badge)](https://hub.docker.com/r/buluma/wordpress-launch)
-[![Size](https://img.shields.io/docker/image-size/buluma/wordpress-launch/main?style=for-the-badge)](https://hub.docker.com/r/buluma/wordpress-launch)
-[![Release](https://img.shields.io/github/release/buluma/docker-wordpress-launch.svg?style=for-the-badge)](https://github.com/buluma/docker-wordpress-launch/releases)
-[![Docker Image](https://github.com/buluma/docker-wordpress-launch/actions/workflows/docker.yml/badge.svg?style=for-the-badge)](https://github.com/buluma/docker-wordpress-launch/actions/workflows/docker.yml)
-![Badges](https://img.shields.io/badge/badges-7-brightgreen.svg?style=for-the-badge)
+[![Pulls](https://img.shields.io/docker/pulls/buluma/wordpress-launch?style=flat)](https://hub.docker.com/r/buluma/wordpress-launch)
+[![Size](https://img.shields.io/docker/image-size/buluma/wordpress-launch/main?style=flat)](https://hub.docker.com/r/buluma/wordpress-launch)
+[![Release](https://img.shields.io/github/release/buluma/docker-wordpress-launch.svg?style=flat)](https://github.com/buluma/docker-wordpress-launch/releases)
+[![Docker Image](https://github.com/buluma/docker-wordpress-launch/actions/workflows/docker.yml/badge.svg?style=flat)](https://github.com/buluma/docker-wordpress-launch/actions/workflows/docker.yml)
+![Badges](https://img.shields.io/badge/badges-7-brightgreen.svg?style=flat)
 
 # WordPress for Docker on Steroids
 
