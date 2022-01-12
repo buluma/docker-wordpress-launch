@@ -6,6 +6,7 @@ on:
   push:
     branches: ["**"]
     tags: ["v*.*.*"]
+  workflow_dispatch:
 
 env:
   platforms: linux/amd64
