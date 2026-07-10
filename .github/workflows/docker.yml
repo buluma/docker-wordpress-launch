@@ -2,6 +2,7 @@
 name: Docker Image
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 13 * * *" # everyday at 1pm
   push:
